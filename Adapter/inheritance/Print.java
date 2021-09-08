@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.inheritance;
 
 public interface Print {
     public abstract void printWeek();

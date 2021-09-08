@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.inheritance;
 
 public class Banner {
     

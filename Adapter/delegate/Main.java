@@ -1,4 +1,4 @@
-package Adapter;
+package Adapter.delegate;
 
 public class Main {
     public static void main(String[] args) {
