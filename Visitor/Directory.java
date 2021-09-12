@@ -28,7 +28,7 @@ public class Directory extends Entry {
     public Iterator<Entry> iterator() {             
         return dir.iterator();
     }
-    public void accept(Visitor v) {         // �湮�� �³�
-        v.visit(this);              
+    public void accept(Visitor v) {
+        v.visit(this);
     }                           
 }
